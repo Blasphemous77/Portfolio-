@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(245, 1, 1);
+}
+
+h2 {
+    color: black;
+}
+
+.medium-text {
+    font-size: 20px;
+    color: blue;
+}
+
+div {
+    width: 250px;
+    height: 500px;
+    color: rgb(10, 255, 10);
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 3px;
+    padding: 50px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    background: skyblue;
+}
